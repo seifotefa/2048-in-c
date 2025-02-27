@@ -1,0 +1,17 @@
+# Ignore compiled binaries
+game2048
+
+# Ignore object files
+*.o
+
+# Ignore dependency directories
+obj/
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore core dump files
+core
